@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.Calculator {
+	background-color: #292929;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100vw;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: Roboto, sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+	.Calculator {
+		justify-content: start;
+	}
+
+	.Calculator img {
+		height: auto;
+		width: 30vw;
+	}
+
+	.Calculator form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 20vw;
+	}
+
+	.Calculator form label {
+		margin: 3%;
+	}
+
+	.Calculator form input {
+		background: none;
+		border: none;
+		border-bottom: 2px solid dimgrey;
+		text-align: center;
+		color: white;
+	}
+
+	.Calculator button {
+		margin: 3%;
+		border-radius: 4px;
+		background: none;
+		color: white;
+		border: 2px solid dimgrey;
+	}
+
+	.Calculator .active {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+}
+
+@media screen and (max-width: 599px) {
+	.Calculator img {
+		height: auto;
+		width: 100vw;
+	}
+
+	.Calculator form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 100vw;
+	}
+
+	.Calculator form label {
+		margin: 3%;
+	}
+
+	.Calculator form input {
+		background: none;
+		border: none;
+		color: white;
+		text-align: center;
+		border-bottom: 2px solid dimgrey;
+	}
+
+	.Calculator button {
+		margin: 3%;
+		border-radius: 4px;
+		background: none;
+		color: white;
+		border: 2px solid dimgrey;
+	}
+
+	.Calculator .active {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+}
