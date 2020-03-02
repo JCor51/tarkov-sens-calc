@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarkov-sens-calc/precache-manifest.90ac6cc2fd621d0d473d407fc122668f.js"
+  "/tarkov-sens-calc/precache-manifest.96289cc9852910788de1fa8f33a8e63c.js"
 );
 
 self.addEventListener('message', (event) => {

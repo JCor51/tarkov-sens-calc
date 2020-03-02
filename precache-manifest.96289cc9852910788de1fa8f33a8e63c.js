@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ba46d12dbb79f8d7831174fc433a8e7",
+    "revision": "a7f784ab8f0f6044ba415ca367999ae9",
     "url": "/tarkov-sens-calc/index.html"
   },
   {
