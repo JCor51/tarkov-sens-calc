@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarkov-sens-calc/static/css/main.3ffc20ac.chunk.css",
+    "main.js": "/tarkov-sens-calc/static/js/main.261d12c2.chunk.js",
+    "main.js.map": "/tarkov-sens-calc/static/js/main.261d12c2.chunk.js.map",
+    "runtime-main.js": "/tarkov-sens-calc/static/js/runtime-main.5a6c9ee6.js",
+    "runtime-main.js.map": "/tarkov-sens-calc/static/js/runtime-main.5a6c9ee6.js.map",
+    "static/js/2.bbf28f45.chunk.js": "/tarkov-sens-calc/static/js/2.bbf28f45.chunk.js",
+    "static/js/2.bbf28f45.chunk.js.map": "/tarkov-sens-calc/static/js/2.bbf28f45.chunk.js.map",
+    "index.html": "/tarkov-sens-calc/index.html",
+    "precache-manifest.90ac6cc2fd621d0d473d407fc122668f.js": "/tarkov-sens-calc/precache-manifest.90ac6cc2fd621d0d473d407fc122668f.js",
+    "service-worker.js": "/tarkov-sens-calc/service-worker.js",
+    "static/css/main.3ffc20ac.chunk.css.map": "/tarkov-sens-calc/static/css/main.3ffc20ac.chunk.css.map",
+    "static/js/2.bbf28f45.chunk.js.LICENSE.txt": "/tarkov-sens-calc/static/js/2.bbf28f45.chunk.js.LICENSE.txt",
+    "static/media/eftlogo.png": "/tarkov-sens-calc/static/media/eftlogo.c2bed103.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a6c9ee6.js",
+    "static/js/2.bbf28f45.chunk.js",
+    "static/css/main.3ffc20ac.chunk.css",
+    "static/js/main.261d12c2.chunk.js"
+  ]
+}
